@@ -1,2 +1,2 @@
 # lectures
-Lectures which was written for internship and mentoring
+Lectures for frontend-beginners
