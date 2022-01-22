@@ -1,0 +1,17 @@
+{
+  "name": "lectures",
+  "version": "0.0.1",
+  "description": "Frontend lectures",
+  "main": "index.js",
+  "repository": "git@github.com:dnischeta/lectures.git",
+  "author": "Dmitry Nishcheta <dnishcheta@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev lectures",
+    "build": "vitepress build lectures",
+    "serve": "vitepress serve lectures"
+  },
+  "devDependencies": {
+    "vitepress": "^0.21.6"
+  }
+}
